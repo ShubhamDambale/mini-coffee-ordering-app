@@ -1,0 +1,15 @@
+#total_amount{
+    width: 50%;
+    height: 30px;
+    background-color: blueviolet;
+    color: white;
+}
+
+
+
+#bucket{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+    
+}
